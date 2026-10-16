@@ -1,0 +1,10 @@
+# angka_pertama = input("masukkan angka pertama:")
+# angka_kedua = input ("masukkan angka kedua:")
+# print ("hasil penjumlahan:", (float(angka_pertama) + float(angka_kedua)))
+# print ("hasil pengurangan:", (float(angka_pertama) - float(angka_kedua)))
+# print ("hasil perkalian:", (float(angka_pertama) * float(angka_kedua)))
+# print ("hasil pembagian:", (float(angka_pertama) / float(angka_kedua)))
+
+celcius = float(input("masukkan suhu dalam celcius:"))
+farenheit = float(celcius*(9/5)+32)
+print (celcius , "derajat celcius sama dengan", farenheit, "derajat farenheit")
